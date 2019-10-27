@@ -4,8 +4,12 @@
   "description": "Simple blue theme for VSCode",
   "version": "0.0.1",
   "publisher": "merko",
+  "icon": "img/icon.png",
   "engines": {
     "vscode": "^1.39.0"
+  },
+  "repository": {
+    "url": "https://github.com/merko30/merko-blue-theme.git"
   },
   "categories": [
     "Themes"
