@@ -1,7 +1,7 @@
 {
   "name": "blue-theme",
   "displayName": "merko's blue theme",
-  "description": "Simple blue theme for VSCode",
+  "description": "Simple blue theme",
   "version": "0.2.0",
   "publisher": "merko",
   "icon": "img/icon.png",
