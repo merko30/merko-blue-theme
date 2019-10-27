@@ -1,3 +1,3 @@
 # Example
 
-![theme screenshot](/img/scren.png)
+![theme screenshot](img/screen.png)
